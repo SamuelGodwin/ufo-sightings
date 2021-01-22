@@ -1,0 +1,4 @@
+This project uses a closed API. To access this API, you will require the following two keys:
+Unique Ripley API private key:
+Unique Ripley API public key:
+It is essential that these keys are kept confidential, and not shared with anyone outside of this group. These keys are unique, and if they are misplaced or revealed to others not in this group, they cannot be replaced.
