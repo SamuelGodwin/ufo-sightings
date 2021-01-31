@@ -1,12 +1,12 @@
 # ufo-sightings
 
-An application built around statistical analysis of UFO sightings in the USA. Includes a game in section 4: Alien Run 4000. 95. 
+An application built around statistical analysis of UFO sightings in the USA. Includes game: Alien Run 4000. 95. 
 
 ![](alien-run-4000.gif)
 
 ## Usage
 
-Compile and run the file `Driver.java` in `src/main/`.
+Compile and run `Driver.java` in `src/main/`.
 
 ## Contributing
 - Arda Gulsun
