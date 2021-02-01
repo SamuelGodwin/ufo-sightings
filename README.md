@@ -7,9 +7,3 @@ An application built around statistical analysis of UFO sightings in the USA. In
 ## Usage
 
 Compile and run `Driver.java` in `src/main/`.
-
-## Contributing
-- Arda Gulsun
-- Rihem Ghebache
-- Samuel Godwin
-- Sean Seeds
